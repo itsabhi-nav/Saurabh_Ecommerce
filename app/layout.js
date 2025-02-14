@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "E-commerce App",
-  description: "My Next.js E-commerce Application",
+  title: "Saurabh Trading",
+  description: "Saurabh Trading E-commerce Application",
 };
 
 export default function RootLayout({ children }) {
