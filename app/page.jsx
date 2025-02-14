@@ -38,7 +38,7 @@ export default function HomePage() {
     { label: "Home", href: "https://www.saurabhtrading.in" },
     { label: "About", href: "https://www.saurabhtrading.in/about" },
     { label: "Services", href: "https://www.saurabhtrading.in/service" },
-    { label: "Shop Now", href: "/" },
+    { label: "Shop Now", href: "https://www.shopping.saurabhtrading.in/" },
     { label: "Contact", href: "https://www.saurabhtrading.in/contact" },
     { label: "Admin Login", href: "/login" },
   ];

@@ -54,7 +54,10 @@ export default function Footer() {
           <h4 className="text-xl font-semibold text-white mb-4">Quick Links</h4>
           <ul className="space-y-2 text-sm">
             <li>
-              <Link href="/" className="hover:underline">
+              <Link
+                href="https://www.saurabhtrading.in/"
+                className="hover:underline"
+              >
                 Home
               </Link>
             </li>
@@ -75,7 +78,10 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/shop" className="hover:underline">
+              <Link
+                href="https://www.shopping.saurabhtrading.in/"
+                className="hover:underline"
+              >
                 Shop Now
               </Link>
             </li>
