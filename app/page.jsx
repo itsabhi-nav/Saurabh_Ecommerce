@@ -189,7 +189,7 @@ ${product.image_url ? `🖼 *Image:* ${imageURL}` : ""}
                       <img
                         src={product.image_url}
                         alt={product.name}
-                        className="w-full h-48 object-cover mb-4 rounded"
+                        className="w-full h-48 object-contain mb-4 rounded"
                       />
                     )}
                     <div className="flex-1">
